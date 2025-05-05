@@ -9,7 +9,7 @@ class MyApp extends StatelessWidget {
       title: 'TechTalk Flutter',
       home: Scaffold(
         appBar: AppBar(title: Text('Flutter + CodeMagic')),
-        body: Center(child: Text('App criado para o tech talk')),
+        body: Center(child: Text('App criado para o techtalk')),
       ),
     );
   }
